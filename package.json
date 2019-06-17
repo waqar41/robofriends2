@@ -2,7 +2,7 @@
   "name": "robofriends2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://waqar41.github.io/RoboFriendss/",
+  "homepage": "http://waqar41.github.io/robofriends2/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.4.1",
@@ -14,7 +14,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   }
